@@ -1,0 +1,16 @@
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\bin\Debug\DragGridView.dll
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\bin\Debug\DragGridView.pdb
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\bin\Debug\DragGridView.dll.mdb
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\bin\Debug\DragGridView.DragGridView.apk
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\bin\Debug\DragGridView.DragGridView-Signed.apk
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\obj\Debug\DragGridView.dll
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\obj\Debug\DragGridView.pdb
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\obj\Debug\android\bin\DragGridView.DragGridView.apk
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\obj\Debug\res\layout\item.xml
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\obj\Debug\res\layout\main.xml
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\obj\Debug\res\values\strings.xml
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\obj\Debug\res\drawable\icon.png
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\obj\Debug\res\drawable\com_tencent_open_notice_msg_icon_big.png
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\obj\Debug\R.cs.flag
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\obj\Debug\uploadflags.txt
+D:\Documents\Tencent Files\531035580\FileRecv\FragmentDemo\DragGridView\obj\Debug\DragGridView.csprojResolveAssemblyReference.cache
